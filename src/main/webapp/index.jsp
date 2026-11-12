@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello World! CSM-C" %></h2>
+<h2><%= "lab internal 2 " %></h2>
 </body>
 </html>
